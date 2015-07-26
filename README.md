@@ -28,6 +28,7 @@ The script supports a few parameters, namely:
 	* none - Will drop the collisions from the mesh.
 	* convex - ( Deprecated ), will try to generate a convex shape collision using the MOPP_RL tool.
 	
+All converted meshes will point to textures within a ,,tes4" folder, so when moving textures to Skyrim, remember to put them within a new ,,tes4" subfolder, not in the root.	
 
 #Worldspace conversions
 
