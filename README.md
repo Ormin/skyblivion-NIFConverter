@@ -11,7 +11,8 @@ Requirements:
 * Any PHP 5+ ( probably will be dropped as PHP scripts don't do real work anyways )
 
 Usage:
-        python convert_folder.py <inputfolder> <outputfolder>
+	*	 Copy template.nif to C:\template.nif ( this path is hardcoded atm, sorry! )
+    *    Execute: python convert_folder.py <inputfolder> <outputfolder>
 		
 The script supports a few parameters, namely:
 
